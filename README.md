@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👀 I'm Ang Lee.
-- 🌱 I'm a Contributor @[Decert.me](https://github.com/decert-me).
-- 🔥 My area of expertise encompasses data science, artificial intelligence, and smart contract development.
+- 🌱 I'm a contributor @[Decert.me](https://github.com/decert-me).
+- 🔥 My area of expertise encompasses data science, artificial intelligence and smart contract development.
 
 
 
